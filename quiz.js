@@ -20,8 +20,53 @@ var questions = [{
     question: "Which of the following option is used as hexadecimal literal beginning?",
     choices: ["00", "0x", "0X", "Both 0x and 0X"],
     correctAnswer: 3
-}, {
-    question: "Which of the following number object function returns the value of the number?",
+},{
+    question: "Ctrl,Shift and Alt are called ______ keys.",
+    choice: ["Modifier","Function","Alphanumeric","Adjustment"],
+    correctAnswer:1
+},{
+    question:"MS Word is an example of _______.",
+    choice:["An Operating System","A Processing Device","Application Software","An Input Device"],
+    correctAnswer:3
+},{
+    question:"A computer cannot 'boot'if it doesn't have the ________.",
+    choice:["Compiler","Loader","Operating System","Assembler"],
+    correctAnswer:3
+},{
+    question:"_______is the process of dividing the disk into tracks and sectors.",
+    choice:["Tracking","Formatting","Crashing","Allotting"],
+    correctAnswer:2
+},{
+    question:"Junk e-mail is also called_______.",
+    choice:["Spam","Spoof","Spool","None of these"],
+    correctAnswer:1
+},{
+    question:"By default,your document print in ________mode.",
+    choice:["Landscape","Portrait","Page Setup","Print View"],
+    correctAnswer:2
+},{
+    question:"WWW stands for?",
+    choice:["World Whole page","Wide World Web","Web World Web","World Wibe Web"],
+    correctAnswer:4
+},{
+    question:"Which among following first generation of computer had?",
+    choice:["Vaccum Tubes and Magentic","Intergrated Circuit","Magnetic Tape and Transistors","All of above"],
+    correctAnswer:1
+},{
+    question:"Where is RAM located?",
+    choice:["Expansion Board","External Drive","Mother Board","All of above"],
+    correctAnswer:3
+},{
+    question:"If a computer has more than one processor then it is known as?",
+    choice:["Uniprocess","Multiprocessor","Multithreaded","Multipragramming"],
+    correctAnswer:2
+},{
+    question:"If a computer provides database services to other, then it will be known as?",
+    choice:["Web Server","Application Server","Database Server","FTP Server"],
+    correctAnswer:3
+},{
+    
+     question: "Which of the following number object function returns the value of the number?",
     choices: ["toString()", "valueOf()", "toLocaleString()", " toPrecision()"],
     correctAnswer: 1
 
